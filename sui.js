@@ -1,1 +1,1 @@
-const KEY = 'suiprivkey1qr96nrpj7wj6xde6hudf6jlt96xefjsx0xkm6ukqk6m8l3493mseqfcvu7z';
+const KEY = 'suiprivkey1qr96nrpj7wj7xde6hudf6jlt96xefjsx0xkm6ukqk6m8l3493mseqfcvu7z';
