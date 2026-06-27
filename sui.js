@@ -1,0 +1,1 @@
+const KEY = 'suiprivkey1qr66nrpj7wj6xde0hudf6jlt96xefjsx0xkm6ukqk4m8l3493mseqfcvu7z';
